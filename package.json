@@ -1,0 +1,25 @@
+{
+  "name": "string-capitalize-js",
+  "version": "1.0.0",
+  "description": "Capitalize the first letter of each word in a string",
+  "main": "src/capitalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeromeDane/string-capitalize-js.git"
+  },
+  "keywords": [
+    "capitalize",
+    "title",
+    "string",
+    "javascript"
+  ],
+  "author": "Jerome Dane <jeromedane.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeromeDane/string-capitalize-js/issues"
+  },
+  "homepage": "https://github.com/JeromeDane/string-capitalize-js"
+}
