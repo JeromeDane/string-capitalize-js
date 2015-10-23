@@ -7,9 +7,16 @@ This project was created for personal use, but can be freely used, forked, modif
 
 This is written using the commonJS module style, and is intended to be included using something like browserify or webpack.
 
+## Tests
+
+Run the following from your command line in the root of the project:
+
+```
+npm test
+```
+
 ## TODO:
 
 * Documentation
-* Tests
 * Build instructions
 * Examples
