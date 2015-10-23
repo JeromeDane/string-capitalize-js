@@ -7,6 +7,6 @@ describe("capitalize", function() {
 		expect(function() { capitalize(false); }).to.throw(Error);
 	});
 	it('should capitalize the first letter of each word in a string', function() {
-		assert.strictEqual(capitalize("hello you **beautiful** world!"), "Hello You **Beautiful** World!");
+		expect(capitalize("hello you **beautiful** world!")).to.equal("Hello You **Beautiful** World!");
 	});
 });
